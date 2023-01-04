@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(220, 247, 244);
+    position: absolute;
+    border-color: rgb(61, 61, 55);
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+  }
+  
+  #description {
+    background-color: rgb(15, 12, 12);
+    font-size: 50px;
+    font-style: italic;
+    position: relative;
+  }
+  
+  #box {
+    background-color: rgb(134, 19, 19);
+    font-family: monospace;
+    font-size: 20px;
+  }
+  
+  .white-text {
+    color: whitesmoke;
+  }
